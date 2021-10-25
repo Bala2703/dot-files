@@ -1,0 +1,8 @@
+require('config.colorscheme')
+require('config.completion')
+require('config.fugitive')
+require('config.nvimtree')
+require('config.which-key')
+require('config.treesitter')
+require('config.rainbow')
+require('config.colorizer')
